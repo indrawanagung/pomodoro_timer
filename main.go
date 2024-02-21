@@ -15,7 +15,7 @@ func main() {
 
 	printHeader()
 	workDuration := flag.Int("work", 30, "an int in minute")
-	restDuration := flag.Int("rest", 30, "an int in minute")
+	restDuration := flag.Int("rest", 5, "an int in minute")
 
 	flag.Parse()
 	workInterval := *workDuration * 60 // remind in minutes
