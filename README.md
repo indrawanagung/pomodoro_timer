@@ -1,4 +1,4 @@
-# Pomodoro Timer CLI
+# Pomodoro Timer
 
 ## Description
 
